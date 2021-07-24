@@ -1,4 +1,4 @@
-key	nonce	en
+key	nonce	ru
 gov		Government
 econ		Economy
 soct		Society
@@ -425,9 +425,9 @@ espionage	3	The most important espionage task is for our domestic agency to trac
 espionage	4	The most important task is for our foreign espionage agency to uncover atrocities around the world and expose them
 espionage	5	We should not even have a foreign espionage agency. Our domestic agency should focused on uncovering and tracking down criminals and people who entered the nation illegally
 espionage	6	We should not have any espionage agency
-A		Выберите вариант, который лучше всего описывает ваше мнение
-BL		Нажмите на знак вопроса, если ваше предпочтение незначительное
-BR		Нажмите на галочку, если это определённо ваше предпочтение
+A		Выберите вариант, который вам ближе всего
+BL		Нажмите слева, если ваше предпочтение незначительное
+BR		Нажмите справа, если это определённо ваше предпочтение
 all		All
 home		Main Page
 values		Possible Values
