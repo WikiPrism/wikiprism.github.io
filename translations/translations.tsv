@@ -5,9 +5,9 @@ soct		Society
 rel		Religion
 for		Foreign Policy
 legal		Security
-o		I completely disagree with every part of all of these philosophies
-a		I do not care about this issue
-prev		Previous
+o		Я совершенно не согласен со всеми вышеперечисленными мнениями
+a		Меня не интересует этот вопрос
+prev		Предыдущий вопрос
 praysch		Prayer in School
 nota		Other
 idc		Apathy
@@ -59,7 +59,7 @@ hum		Humanist
 hum*		Reformist
 prot		State Security
 prot*		Total Security
-quizname		Prism Political Quiz
+quizname		WikiPrism
 nota	desc	If you're getting other, you believe in something that disagrees with basic assumptions that this quiz makes to simplify questions for the vast majority of people. You may need more specialized tests to capture your beliefs, though you likely already have a specific label for yourself.
 idc	desc	Apathy refers to the lack of interest in a particular issue. It might not affect you, or you might just not believe any option is better than the others or that there isn't any realistic hope of achieving change in an issue. Some apathetic people just might care about a handful of other issues more and be apathetic about other issues
 soc	desc	This quiz uses Socialism to refer to the belief that the state should control the economy in many industries. They believe private industry should be banned or limited to industries that are harder to put a direct value on. They believe that workers should receive the value of their labor with minimal amounts given to management.
@@ -425,9 +425,9 @@ espionage	3	The most important espionage task is for our domestic agency to trac
 espionage	4	The most important task is for our foreign espionage agency to uncover atrocities around the world and expose them
 espionage	5	We should not even have a foreign espionage agency. Our domestic agency should focused on uncovering and tracking down criminals and people who entered the nation illegally
 espionage	6	We should not have any espionage agency
-A		Select the view that best describes your opinion
-BL		Click the question mark if it is a slight preference
-BR		Click the check mark if this is definitely your preference
+A		Выберите вариант, который лучше всего описывает ваше мнение
+BL		Нажмите на знак вопроса, если ваше предпочтение незначительное
+BR		Нажмите на галочку, если это определённо ваше предпочтение
 all		All
 home		Main Page
 values		Possible Values
